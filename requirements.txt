@@ -1,0 +1,6 @@
+pandas
+streamlit
+prophet
+plotly
+holidays==0.24
+prophet
